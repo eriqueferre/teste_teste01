@@ -1,6 +1,8 @@
 streamlit
 pandas
 numpy
-altair
+plotly
+matplotlib
+seaborn
 openpyxl
-toml
+requests
